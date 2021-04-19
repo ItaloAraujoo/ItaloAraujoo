@@ -2,8 +2,8 @@
 
 
 ## Social Media :desktop_computer:	
-<img src="https://img.icons8.com/android/24/000000/linkedin.png"/>
-<img src="https://img.icons8.com/material-rounded/24/000000/twitter.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v1.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/twitter-circled--v2.png"/>
 
 
 ## Github Stats
