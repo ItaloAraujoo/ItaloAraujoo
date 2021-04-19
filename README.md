@@ -3,7 +3,8 @@
 
 ## Social Media :desktop_computer:	
 <img src="https://img.icons8.com/android/24/000000/linkedin.png"/>
-<img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+<img src="https://img.icons8.com/material-rounded/24/000000/twitter.png"/>
+
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloAraujoo&show_icons=true&theme=radical)
