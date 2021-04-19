@@ -1,7 +1,7 @@
 ## Hi there, I'm Italo Araújo :wave:	
 
 
-## Social Media
+## Social Media :desktop_computer:	
 <img src="https://img.icons8.com/offices/30/000000/linkedin.png"/>
 
 
