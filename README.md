@@ -6,6 +6,8 @@
 
 Hi, I'm Italo Araújo, a computer engineering student passionate about technology :brazil:	:computer:
 
+* :brain:	 I'm currently learning HTML, CSS, JAVASCRIPT
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloAraujoo&show_icons=true&theme=radical)
