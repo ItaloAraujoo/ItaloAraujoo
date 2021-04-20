@@ -1,5 +1,8 @@
 ## Hi there, I'm Italo Araújo :wave:	
 
+Hi, I'm Italo Araújo, a computer engineering student passionate about technology :brazil:	:computer:
+
+
 
 ## :desktop_computer: Social Media 	
 [<img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v1.png" width="40"/>](https://www.linkedin.com/in/%C3%ADtalo-ara%C3%BAjo-652007177/)
