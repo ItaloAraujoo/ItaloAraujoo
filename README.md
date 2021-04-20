@@ -1,6 +1,6 @@
 #### Hi there, I'm Italo Araújo! :wave:	
 
-[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled--v1.png" width="30"/>](https://www.linkedin.com/in/%C3%ADtalo-ara%C3%BAjo-652007177/)
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/%C3%ADtalo-ara%C3%BAjo-652007177/)
 [<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30"/>](https://twitter.com/ItaloAraujo1997)
 [<img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="30"/>](http://api.whatsapp.com/send?phone=5511932456941)
 
