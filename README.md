@@ -6,7 +6,7 @@
 
 Hi, I'm Italo Araújo, a computer engineering student passionate about technology :brazil:	:computer:
 
-* :brain:	 I'm currently learning HTML, CSS, JAVASCRIPT
+* :brain:	 I'm currently learning JAVASCRIPT, REACT JS
 
 ##### Learning:
 <img src="https://user-images.githubusercontent.com/81595439/115321201-ba054180-a159-11eb-886e-7f88ac3f846a.png" width="30"/> <img src= "https://user-images.githubusercontent.com/81595439/129985058-26ec7b2f-7dd2-4827-9097-6351787f2357.png" width="36"/>
