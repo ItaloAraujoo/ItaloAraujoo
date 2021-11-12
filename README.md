@@ -25,8 +25,9 @@
 ## Meus Contatos :iphone:
 
 <div>
-<a href="https://github.com/ItaloAraujoo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"/> <a href="mailto:italoaraujo.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90"/> <a href="https://www.linkedin.com/in/italosaraujo/
-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="115"/>
+<a href="https://github.com/ItaloAraujoo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"/>
+<a href="mailto:italoaraujo.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90"/> 
+<a href="https://www.linkedin.com/in/italosaraujo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="115"/>
 </div>
 
 
