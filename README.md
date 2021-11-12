@@ -2,7 +2,7 @@
 
 <h1 align="left"> Olá, eu sou o Ítalo! :wave:	&nbsp;
 
-## Sobre mim
+## Sobre mim 🕵️
 
 -:man_student: Estudante de Engenharia da Computação &nbsp;
 
