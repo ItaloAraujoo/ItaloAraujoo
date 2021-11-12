@@ -1,19 +1,32 @@
-#### Hi there, I'm Italo Araújo! :wave:	
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/81595439/141522607-1a2bf639-709a-4acc-851d-0045963f8786.gif)
 
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30"/>](https://www.linkedin.com/in/%C3%ADtalo-ara%C3%BAjo-652007177/)
-[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30"/>](https://twitter.com/ItaloAraujo1997)
-[<img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="30"/>](http://api.whatsapp.com/send?phone=5511932456941)
-
-Hi, I'm Italo Araújo, a computer engineering student passionate about technology :brazil:	:computer:
-
-
+  
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloAraujoo&theme=merko&show_icons=true&layout=compact&border_color=0,0,0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloAraujoo&show_icons=true&theme=merko&layout=compact"/>
+</div>
 
 
 
+## Olá, eu sou o Ítalo! :wave:	&nbsp;
 
+## Sobre mim
 
+-:man_student: Estudante de Engenharia da Computação &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloAraujoo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloAraujoo&show_icons=true&theme=radical)](https://github.com/ItaloAraujoo/github-readme-stats)
+-:desktop_computer: Interesses: React Native, SQL, Java &nbsp;
+
+-:video_game: Curto muito jogar um game, principalmente se for de cartas ou futebol :smile: &nbsp;
+
+## Minhas Skills :nerd_face: &nbsp;
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="143"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="86"/> <img src="https://user-images.githubusercontent.com/81595439/141532697-a60082e4-2723-46d5-8370-fd853b6dacdc.png" width="30"/>
+
+## Meus Contatos :iphone:
+
+<div>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="115"/>
+</div>
+
 
 
