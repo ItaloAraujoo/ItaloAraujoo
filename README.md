@@ -1,5 +1,6 @@
- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/81595439/141522607-1a2bf639-709a-4acc-851d-0045963f8786.gif)
-
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/81595439/141522607-1a2bf639-709a-4acc-851d-0045963f8786.gif"/>
+ </div>
   
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloAraujoo&theme=merko&show_icons=true&layout=compact&border_color=0,0,0"/>
