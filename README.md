@@ -8,7 +8,7 @@
 
 -:desktop_computer: Interesses: React Native, SQL, Java &nbsp;
 
--:video_game: Curto muito jogar um game, principalmente se for de cartas ou futebol :smile: &nbsp;
+-:video_game: Viciado em Video games e animes :smile: ❤️ &nbsp;
 
 ## Minhas Skills :nerd_face: &nbsp;
 
