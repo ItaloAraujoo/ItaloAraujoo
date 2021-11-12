@@ -9,7 +9,10 @@
 -:desktop_computer: Interesses: React Native, SQL, Java &nbsp;
 
 -:video_game: Viciado em Video games e animes :smile: ❤️ &nbsp;
-
+ 
+-A única maneira de fazer um bom trabalho é amando o que você faz. Se você ainda não encontrou, continue procurando. Não se desespere. Assim como no amor, você saberá quando tiver encontrado. &nbsp;
+(Steve Jobs)
+ 
 ## Minhas Skills :nerd_face: &nbsp;
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="143"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="86"/> <img src="https://user-images.githubusercontent.com/81595439/141532697-a60082e4-2723-46d5-8370-fd853b6dacdc.png" width="30"/>
