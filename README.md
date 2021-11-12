@@ -26,7 +26,7 @@
 
 
  
- ## Análises
+ ## GitHub Analytics
   
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloAraujoo&theme=merko&show_icons=true&layout=compact&border_color=0,0,0"/>
