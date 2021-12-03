@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/81595439/141522607-1a2bf639-709a-4acc-851d-0045963f8786.gif" width="455"/>
+
 
 <h1 align="left"> Olá, eu sou o Ítalo! :wave:	&nbsp;
 
@@ -6,9 +6,8 @@
 
 -:man_student: Estudante de Engenharia da Computação &nbsp;
 
--:desktop_computer: Interesses: React Native, SQL, Java &nbsp;
+-:desktop_computer: Interesses: SQL, Java &nbsp;
 
--:video_game: Viciado em Video games e animes :smile: ❤️ &nbsp;
  
 -A única maneira de fazer um bom trabalho é amando o que você faz. Se você ainda não encontrou, continue procurando. Não se desespere. Assim como no amor, você saberá quando tiver encontrado. &nbsp;
 (Steve Jobs)
