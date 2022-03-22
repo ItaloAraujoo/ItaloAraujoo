@@ -6,7 +6,7 @@
 
 -:man_student: Estudante de Engenharia da Computação &nbsp;
 
--:desktop_computer: Interesses: Front-End &nbsp;
+-🎯: Interesses: Java, Spring Boot, HTML, CSS, JavaScript &nbsp;
 
  
 -A única maneira de fazer um bom trabalho é amando o que você faz. Se você ainda não encontrou, continue procurando. Não se desespere. Assim como no amor, você saberá quando tiver encontrado. &nbsp;
