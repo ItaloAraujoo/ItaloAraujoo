@@ -7,6 +7,8 @@
 -:man_student: Estudante de Engenharia da Computação &nbsp;
 
 -🎯: Interesses: Python, SQL, Engenharia de Dados, BI
+ 
+-Confira meus projetos em Power BI: l1nq.com/projetospowerbi
 
  
 -A única maneira de fazer um bom trabalho é amando o que você faz. Se você ainda não encontrou, continue procurando. Não se desespere. Assim como no amor, você saberá quando tiver encontrado. &nbsp;
@@ -14,9 +16,9 @@
  
 ## Minhas Skills :nerd_face: &nbsp;
 
-<img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="115"/> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white
-" width="70"/> <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
-" width="115"/>
+<img src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="115"/> <img src= "https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="240"/>
+ <img src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" width="200"/>
+ 
 
 ## Meus Contatos :iphone:
 
