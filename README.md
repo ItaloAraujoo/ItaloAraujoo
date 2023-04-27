@@ -1,5 +1,5 @@
 
-
+<!--
 <h1 align="left"> Olá, eu sou o Ítalo! :wave:	&nbsp;
 
 ## Sobre mim 🕵️
@@ -38,3 +38,31 @@
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloAraujoo&show_icons=true&theme=merko&layout=compact"/>
 </div>
+
+-->
+
+<h1 align="center">Oi 👋, eu sou o Ítalo</h1>
+<h3 align="center">Apaixonado por Engenharia/Análise de dados</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=italoaraujoo" alt="italoaraujoo" /></a> </p>
+
+- 🌱 Atualmente venho me dedicando as seguintes ferramentas: **Python, Pandas e Spark**
+
+- 💬 Minhas Hard Skills: **SQL, Power BI, Excel, SSIS e Azure**
+
+- 📫 Entre em contato comigo através do meu e-mail: **italoaraujo.dev@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/italosaraujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/italosaraujo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="80" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="40"/> </a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=italoaraujoo&show_icons=true&locale=en&layout=compact" alt="italoaraujoo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=italoaraujoo&" alt="italoaraujoo" /></p>
+
+
