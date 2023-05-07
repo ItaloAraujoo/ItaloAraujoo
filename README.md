@@ -42,13 +42,13 @@
 -->
 
 <h1 align="center">Oi 👋, eu sou o Ítalo</h1>
-<h3 align="center">Apaixonado por Engenharia/Análise de dados</h3>
+<!--<h3 align="center">Apaixonado por Engenharia/Análise de dados</h3> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=italoaraujoo" alt="italoaraujoo" /></a> </p>
 
-- 🌱 Atualmente venho me dedicando as seguintes ferramentas: **Python, Pandas e Spark**
+- 🌱 Atualmente venho me dedicando as seguintes ferramentas: **Python, Flask, e Spark**
 
-- 💬 Minhas Hard Skills: **SQL, Power BI, Excel, SSIS e Azure**
+- 💬 Minhas Hard Skills: **SQL, Python, Power BI, SSIS e Azure**
 
 - 📫 Entre em contato comigo através do meu e-mail: **italoaraujo.dev@gmail.com**
 
